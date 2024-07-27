@@ -1,0 +1,15 @@
+Nombre  ||         Email       ||Edad||Salario||En prácticas
+ ===========================================================
+Antonio || antonio@ironhack.es || 23 || 120000 || false
+Lucia   || lucia@ironhack.es   || 34 || 21000 || false
+Mayte   || mayte@ironhack.es   || 21 || 22000 || false
+Lucas   || lucas@ironhack.es   || 37 || 25600 || false
+Miguel  || miguel@ironhack.es  || 44 || 18500 || false
+Sandra  || sandra@ironhack.es  || 47 || 23300 || false
+Maria   || maria@ironhack.es   || 27 || 22700 || false
+Jose    || jose@ironhack.es    || 54 || 19900 || false
+Marcos  || marcos@ironhack.es  || 42 || 35000 || false
+Sara    || sara@ironhack.es    || 33 || 32000 || false
+Pedro   || pedrote@ironhack.es || 18 || 20000 || true
+Monica  || monica@ironhack.es  || 19 || 15000 || true
+juan    || juan@ironhack.es    || 22 || 20000 || true
